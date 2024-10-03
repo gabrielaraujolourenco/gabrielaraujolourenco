@@ -1,4 +1,4 @@
-### Hi! Eu sou o Gabriel Araujo
+### Hi! Eu sou o Gabriel Araujo.
 - 🌱 Estudante de Engenharia de software
 - 📫 Contate-me no e-mail: gabrielaraujo892@gmail.com
 
