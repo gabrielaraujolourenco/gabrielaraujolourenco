@@ -3,6 +3,7 @@
 - 📫 Contate-me no e-mail: gabrielaraujo892@gmail.com
 
 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=header"/>
 
 
